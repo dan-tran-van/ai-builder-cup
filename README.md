@@ -12,10 +12,10 @@ You have two straightforward options:
 
 ```bash
 # 1️⃣ Clone with submodules in one step
-git clone --recursive https://github.com/your‑org/ai-builder-cup.git
+git clone --recursive https://github.com/dan-tran-van/ai-builder-cup.git
 
 # 2️⃣ Clone first, then initialize submodules
-git clone https://github.com/your‑org/ai-builder-cup.git
+git clone https://github.com/dan-tran-van/ai-builder-cup.git
 cd ai-builder-cup
 git submodule update --init --recursive
 ```
