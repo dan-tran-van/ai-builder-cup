@@ -1,3 +1,6 @@
 [submodule "tdretail"]
 	path = tdretail
 	url = https://github.com/dan-tran-van/tdretail
+[submodule "merchants"]
+	path = merchants
+	url = https://github.com/Le-atuan/td-retail
